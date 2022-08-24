@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>not like we care anyways T_T</h1>
+    <h1>omg it's deployed purr!!</h1>
   </div>
 </template>
 
